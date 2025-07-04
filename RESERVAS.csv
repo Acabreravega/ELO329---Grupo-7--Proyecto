@@ -1,0 +1,7 @@
+Nombre_Reservante;Numero_Habitacion;Inicio_Reserva;Fin_Reserva;Desayunos;Lavanderia;Extras;Costo_Total
+Agustin Cabrera;104;02/07/2025;11/07/2025;si;no;no;747000
+Vicente Osorio;205;17/07/2025;20/07/2025;si;no;no;169500
+Vicente Ramirez;603;21/08/2025;28/08/2025;no;si;no;923000
+Cristian Ayancan;1205;11/07/2025;13/07/2025;no;no;no;356000
+Giuliano Schiappacasse;101;17/09/2025;21/09/2025;si;si;si;230000
+Victor Santos;105;04/07/2025;11/07/2025;si;no;no;819000
